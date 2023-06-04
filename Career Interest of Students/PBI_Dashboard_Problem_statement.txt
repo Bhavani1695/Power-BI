@@ -1,0 +1,16 @@
+Problem Statement:
+You have responses of students who wanted to pursue their career as a Data Scientist and Data Analyst. 
+Your job is to create a dashboard for the operations team to understand the responses recently received 
+from the students with respect to their career interest.
+
+For SQL & PBI you can use the same set of questions.
+
+1. Create a slicer for project interest variable
+2. Create a slicer for career role
+3. Create a slicer for batch number
+4. Check the count of Gender in percentage
+5. Check the % ratio for each project interest and career role
+6. Check the total count of unique responses received
+7. Check the total responses received
+8. Check what are the total batch count
+9. Add your own flavour of ideas in the dashboard and queries
